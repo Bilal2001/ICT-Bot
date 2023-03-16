@@ -1,0 +1,8 @@
+{
+    "Symbol": "BTCUSDT",
+    "BB_len": 20,
+    "BB_sd": 1,
+    "timeframe": "1m",
+    "reward": 1,
+    "Quantity": 0.001
+}
